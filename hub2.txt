@@ -1,0 +1,5 @@
+"otu.vs.div.Pvalue"	"otu.vs.div.corvect"	"color"	"phylum"	"class"	"order"	"family"	"genus"	"specie"	"abundance"
+"OTU2720"	0.0394643	0.298294729	"red"	"Proteobacteria"	"Deltaproteobacteria"	"Myxococcales"	"Blfdi19"	"norank"	"uncultured bacterium"	1.83333333333333
+"OTU6162"	0.0020898	0.433404013	"red"	"Proteobacteria"	"Gammaproteobacteria"	"Xanthomonadales"	"Xanthomonadaceae"	"Luteimonas"	"Unclassified"	25.3541666666667
+"OTU4923"	0.0165963	0.344199921	"red.pseu"	"Proteobacteria"	"Gammaproteobacteria"	"Pseudomonadales"	"Pseudomonadaceae"	"Pseudomonas"	"Unclassified"	132.979166666667
+"OTU2574"	0.0075673	0.380885239	"red"	"Proteobacteria"	"Betaproteobacteria"	"Burkholderiales"	"Oxalobacteraceae"	"Paucimonas"	"uncultured bacterium"	163.666666666667

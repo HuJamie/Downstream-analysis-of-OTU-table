@@ -1,0 +1,20 @@
+OTUs	otu.vs.div.Pvalue	otu.vs.div.corvect	color	phylum	class	order	family	genus	specie	abundance
+OTU3885	0.2032349	-0.186957375	grey	Chloroflexi	KD4-96	norank	norank	norank	uncultured bacterium	2.6875
+OTU8735	0.2699121	0.162464306	grey	Actinobacteria	Actinobacteria	Acidimicrobiales	uncultured	uncultured	uncultured bacterium	1.041666667
+OTU3936	0.0414992	0.295417544	red	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	uncultured	Unclassified	1.1875
+OTU5145	0.0814094	0.254069462	red	Saccharibacteria	norank	norank	norank	norank	uncultured bacterium	1.270833333
+OTU7663	0.005202	0.397055985	red	Actinobacteria	Actinobacteria	Acidimicrobiales	Acidimicrobiaceae	Illumatobacter	uncultured bacterium	1.416666667
+OTU1926	0.0352031	0.304738324	red	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	NS11-12 marine group	norank	uncultured bacterium	1.479166667
+OTU4429	0.0892603	0.247963903	red	Parcubacteria	norank	norank	norank	norank	uncultured bacterium	1.645833333
+OTU663	0.0460313	0.289402387	red	Actinobacteria	Actinobacteria	Acidimicrobiales	Acidimicrobiales Incertae Sedis	Candidatus Microthrix	uncultured bacterium	1.729166667
+OTU6750	0.0055752	0.394125331	red	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	Unclassified	1.8125
+OTU5266	0.0025149	0.426337589	red	Proteobacteria	Gammaproteobacteria	34P16	norank	norank	uncultured bacterium	1.875
+OTU2183	0.0036936	0.411173069	red	Parcubacteria	norank	norank	norank	norank	uncultured bacterium	2.020833333
+OTU1369	0.0926426	0.245462147	red	Proteobacteria	Gammaproteobacteria	Legionellales	Coxiellaceae	Aquicella	uncultured bacterium	2.229166667
+OTU8653	0.0497597	0.284805746	red	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Dongia	uncultured bacterium	2.3125
+OTU8407	0.0852387	0.251036557	red	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Thermomonospora	Thermomonospora curvata	2.520833333
+OTU498	0.0737992	0.260446165	red	Actinobacteria	Actinobacteria	Micrococcales	Demequinaceae	Demequina	uncultured bacterium	3.208333333
+OTU8478	0.0106191	0.365555877	red.pseu	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	uncultured bacterium	5.520833333
+OTU447	0.0068349	0.385355362	red	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	uncultured	uncultured bacterium	5.895833333
+OTU398	0.0337838	0.307027555	red	Proteobacteria	Gammaproteobacteria	Xanthomonadales	uncultured	uncultured	uncultured bacterium	6.625
+OTU5111	0.023362	0.32684945	red	Bacteroidetes	Cytophagia	Order II	Rhodothermaceae	uncultured	uncultured bacterium	9.166666667
